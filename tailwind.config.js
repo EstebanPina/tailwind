@@ -1,0 +1,11 @@
+module.export={
+    purge:['./public/**/*.html','./src/**/*.js'],
+    darkmode:false,
+    theme:{
+        extend:{}
+    },
+    variants:{
+        extend:{}
+    },
+    plugins:[],
+}
